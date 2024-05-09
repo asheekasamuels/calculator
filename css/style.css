@@ -7,6 +7,7 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -59,3 +60,37 @@ body {
 .button.operation:hover {
     background-color: transparent;
 }
+body{
+    text-align: center;
+    color: black;
+}
+        table { 
+            border: 2px solid black; 
+            margin-left: auto; 
+            margin-right: auto; 
+        } 
+          
+        input[type="button"] { 
+            width: 100%; 
+            padding: 30px 60px; 
+            background-color: lightpink; 
+            color: black; 
+            font-size: 24px; 
+            font-weight: bold; 
+            border: none; 
+            border-radius: 5px; 
+        } 
+          
+        input[type="text"] { 
+            padding: 20px 30px; 
+            font-size: 24px; 
+            font-weight: bold; 
+            border: none; 
+            border-radius: 5px; 
+            border: 2px solid black; 
+        } 
+
+        /*select the element you want to apply the hover effect to*/
+        button {
+            background-color: ;
+        }
